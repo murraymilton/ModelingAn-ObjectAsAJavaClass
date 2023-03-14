@@ -57,20 +57,7 @@ public class Student {
         this.lastName = lastName;
     }
 
-    // Instance method
-//    public void addStudentInfo(){
-//
-//        Scanner sc = new Scanner(System.in);
-//        System.out.println("Enter studentId:");
-//        id = sc.nextLine();
-//        System.out.println("Enter course:");
-//        course = sc.nextLine();
-//        System.out.println("Enter student First Name:");
-//        firstName = sc.nextLine();
-//        System.out.println("Enter student Last Name:");
-//        lastName=sc.nextLine();
-//        sc.close();
-//    }
+
 
     /**
      * <toString method for the object

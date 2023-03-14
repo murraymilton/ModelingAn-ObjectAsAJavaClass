@@ -28,6 +28,8 @@ public class StudentClassroom {
 
         //Creating an instance of the student object
         Student student1 = new Student(id, course, firstName, lastName);
+        student1.setFirstName("Timothy");
+        System.out.println(student1.getFirstName());
         System.out.println(student1);
     }
 }
